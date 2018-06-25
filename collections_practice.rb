@@ -45,7 +45,7 @@ def sum_array(numbers)
 end
 
 def add_s(elements)
-  elements.eac do |element|
+  elements.each do |element|
     element << "s"
   end
 end
