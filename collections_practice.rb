@@ -46,7 +46,7 @@ end
 
 def add_s(elements)
   elements.each do |element|
-    element << "s" 
+    element(0,2,3) << "s" 
 
 
  end
