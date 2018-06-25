@@ -26,5 +26,7 @@ def reverse_array(numbers)
 end
 
 def kesha_maker(names)
-  names << "$"[3]
+  names.each do |x|
+    x[3] == "$"
+    names
 end
