@@ -46,7 +46,7 @@ end
 
 def add_s(elements)
   elements.each_with_index do |element,index|
-    if (index == [0,2,3])
+    if (index == [0,2,3]) then
       element << "s"
   end
 end
