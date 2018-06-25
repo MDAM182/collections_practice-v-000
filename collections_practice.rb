@@ -37,6 +37,6 @@ def find_a(fruits)
   end
 end
 
-def sum_array(numbes)
+def sum_array(numbers)
   numbers.inject(0) { |result, element| result + element }
 end
