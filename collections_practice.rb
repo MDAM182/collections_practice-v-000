@@ -31,3 +31,7 @@ def kesha_maker(names)
   x.insert(2, '$')
   end
 end
+
+def find_a
+  
+end
