@@ -36,3 +36,6 @@ def find_a(fruits)
   fruits.select do |fruit| fruit.start_with?("a")
   end
 end
+
+def sum_array
+end
