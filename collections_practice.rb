@@ -46,8 +46,7 @@ end
 
 def add_s(elements)
   elements.each_with_index.collect do |element, index|
-    elements << "s" unless feet 
-    false
-  
+    elements << "s" unless feet false
+
   end
 end
