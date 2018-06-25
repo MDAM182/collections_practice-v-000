@@ -46,6 +46,6 @@ end
 
 def add_s(elements)
   elements.each do |element|
-    element.push("$"")
+    element.push("$")
  end
 end
