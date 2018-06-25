@@ -27,6 +27,6 @@ end
 
 def kesha_maker(names)
   names.each do |x|
-  x[3].slice!("")
+  x.slice!("3")
   end
 end
