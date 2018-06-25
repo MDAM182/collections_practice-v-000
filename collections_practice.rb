@@ -47,7 +47,5 @@ end
 def add_s(elements)
   elements.each_with_index.collect do |element, index|
     element << "s"
-
-
   end
 end
