@@ -50,3 +50,4 @@ def add_s(elements)
       element << "s"
   end
 end
+end
