@@ -21,6 +21,6 @@ def swap_elements(names)
     names
 end
 
-def reverse_array()
-  
+def reverse_array(numbers)
+
 end
