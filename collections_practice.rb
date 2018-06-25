@@ -18,6 +18,6 @@ end
 
 def swap_elements(names)
   names.sort.swap! do | name , element|
-    
-  end
+
+   end
 end
