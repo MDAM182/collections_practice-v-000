@@ -39,5 +39,7 @@ def find_a(fruits)
 end
 
 def sum_array(numbers)
-  numbers.inject(0) do |result, element| result + element }
+  numbers.inject(0) do |result, element|
+    result + element
+  end
 end
