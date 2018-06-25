@@ -33,5 +33,6 @@ def kesha_maker(names)
 end
 
 def find_a(fruits)
-  fruits.select { |fruit| fruit.start_with?("a") }
+  fruits.select do |fruit| fruit.start_with?("a")
+  end
 end
