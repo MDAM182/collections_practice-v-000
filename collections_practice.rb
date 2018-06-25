@@ -45,7 +45,7 @@ def sum_array(numbers)
 end
 
 def add_s(elements)
-  elements.each_with_index do |element,index|
+  elements.each do |element|
 
   
  end
