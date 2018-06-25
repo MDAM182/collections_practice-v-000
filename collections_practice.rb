@@ -27,6 +27,6 @@ end
 
 def kesha_maker(names)
   names.each do |x|
-  x[3].delete("")
+  x.delete("")[3]
   end
 end
