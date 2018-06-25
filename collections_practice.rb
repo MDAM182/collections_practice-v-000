@@ -33,10 +33,11 @@ def kesha_maker(names)
 end
 
 def find_a(fruits)
-  fruits.select do |fruit| fruit.start_with?("a")
+  fruits.select do |fruit|
+    fruit.start_with?("a")
   end
 end
 
 def sum_array(numbers)
-  numbers.inject(0) { |result, element| result + element }
+  numbers.inject(0) do |result, element| result + element }
 end
