@@ -37,5 +37,5 @@ def find_a(fruits)
   end
 end
 
-def sum_array
+def sum_array(numbes)
 end
