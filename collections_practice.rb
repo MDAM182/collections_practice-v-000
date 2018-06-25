@@ -45,7 +45,8 @@ def sum_array(numbers)
 end
 
 def add_s(elements)
-  elements.each do |element|
-    element << "s"
+  elements.each_with_index do |element,index|
+    if (index %2 ==0) then 
+  array2.push(item) 
   end
 end
