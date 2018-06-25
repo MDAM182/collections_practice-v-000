@@ -23,5 +23,4 @@ end
 
 def reverse_array(numbers)
   numbers.reverse
-
 end
