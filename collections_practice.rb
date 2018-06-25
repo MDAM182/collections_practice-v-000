@@ -17,8 +17,9 @@ def sort_array_char_count(animals)
 end
 
 def swap_elements(names)
-  names.sort.swap! do| name , element|
-  
+  names.sort.swap! do | name , element|
+  end
+
 
 
 end
