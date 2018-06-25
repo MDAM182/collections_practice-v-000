@@ -51,5 +51,5 @@ def add_s(elements)
    else
       e << "s"
    end
- end
+  end
 end
