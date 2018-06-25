@@ -46,7 +46,7 @@ end
 
 def add_s(elements)
   elements.each_with_index.collect do |e, i|
-   if i = 1
+   if i == 1
       e
    else
       e << "s"
