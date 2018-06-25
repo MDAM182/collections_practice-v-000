@@ -30,4 +30,5 @@ def kesha_maker(names)
     x[3].slice
     x[3] = "$"
   end
+  names
 end
