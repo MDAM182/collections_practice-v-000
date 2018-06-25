@@ -46,6 +46,8 @@ end
 
 def add_s(elements)
   elements.each do |element|
-
+    x.slice!(2)
+    x.insert(2, '$')
+    end
  end
 end
