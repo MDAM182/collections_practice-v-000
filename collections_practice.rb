@@ -49,5 +49,5 @@ def add_s(elements)
     if (index == [0,2,3]) then
       element << "s"
   end
-end
+ end
 end
