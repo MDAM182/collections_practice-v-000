@@ -26,5 +26,5 @@ def reverse_array(numbers)
 end
 
 def kesha_maker(names)
-
+  names
 end
