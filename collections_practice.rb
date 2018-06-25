@@ -18,7 +18,7 @@ end
 
 def swap_elements(names)
   names.sort do | a , b|
-    a, b <=> b, a
+    [1], [2] <=> [2], [1]
 
    end
 end
