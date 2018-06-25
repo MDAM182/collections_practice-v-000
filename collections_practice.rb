@@ -18,6 +18,4 @@ end
 
 def swap_elements(names)
     names.swap!([1,2])
-
-   end
 end
