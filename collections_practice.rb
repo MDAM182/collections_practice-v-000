@@ -47,5 +47,6 @@ end
 def add_s(elements)
   elements.each do |element|
     element << "s"
+    elements[1,4].pop
  end
 end
