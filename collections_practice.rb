@@ -49,6 +49,6 @@ def add_s(elements)
    if i = 1
       e
    else
-      a << "s"
+      e << "s"
    end
 end
